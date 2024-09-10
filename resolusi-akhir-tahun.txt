@@ -1,0 +1,3 @@
+Resolusi untuk Bot Telegram hingga akhir tahun 2024
+- Mengembangkan pemanfaatan AI Gemini pada bot
+- Belajar Big Query yang akan dihubungkan ke bot telegram
